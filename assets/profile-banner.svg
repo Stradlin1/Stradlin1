@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mattea — Robotics Engineering</title>
+<desc id="desc">Pine not for waters swept away; Know that love's first bloom may not stay.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0c1220"/><stop offset="1" stop-color="#111b2b"/>
+  </linearGradient>
+  <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#79c9e8"/><stop offset="1" stop-color="#a5b4fc"/>
+  </linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#27354a" stroke-width="0.75"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="18" fill="url(#grid)" opacity=".27"/>
+<rect x="22" y="22" width="1156" height="316" rx="12" fill="none" stroke="#334155" stroke-width="1" opacity=".7"/>
+<path d="M64 53V103" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round"/>
+<text x="84" y="73" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#96a9bf">STRADLIN1 / PERSONAL PROFILE</text>
+<text x="80" y="151" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Mattea<tspan fill="#7dd3fc">.</tspan></text>
+<text x="83" y="180" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.4" fill="#9fb0c7">ROBOTICS ENGINEERING   /   COMPUTER VISION   /   EMBEDDED SYSTEMS</text>
+<path d="M82 197H667" stroke="#40546c" stroke-width="1"/>
+<text x="82" y="245" font-family="Georgia,'Times New Roman',serif" font-size="28" font-style="italic" fill="#e4e8f2">Pine not for waters swept away;</text>
+<text x="82" y="285" font-family="Georgia,'Times New Roman',serif" font-size="28" font-style="italic" fill="#e4e8f2">Know that love’s first bloom may not stay.</text>
+<path d="M82 310H151" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round"/>
+<circle cx="165" cy="310" r="3" fill="#7dd3fc"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="973" cy="175" r="106" stroke="#41546c" stroke-width="1" stroke-dasharray="3 10"/>
+  <circle cx="973" cy="175" r="72" stroke="url(#orbit)" stroke-width="1.7" opacity=".74"/>
+  <circle cx="973" cy="175" r="35" stroke="#638aa8" stroke-width="1" opacity=".8"/>
+  <ellipse cx="973" cy="175" rx="148" ry="55" transform="rotate(-34 973 175)" stroke="url(#orbit)" stroke-width="1.5" opacity=".8"/>
+  <ellipse cx="973" cy="175" rx="145" ry="47" transform="rotate(35 973 175)" stroke="#64748b" stroke-width="1" opacity=".52"/>
+  <path d="M808 231C856 212 872 150 938 153S1044 253 1137 188" stroke="#7dd3fc" stroke-width="1.1" opacity=".55"/>
+  <path d="M846 105C905 137 942 112 986 89S1089 85 1135 128" stroke="#a5b4fc" stroke-width="1" opacity=".4"/>
+  <path d="M973 65V285M863 175H1083" stroke="#53657c" stroke-width="1" opacity=".3"/>
+</g>
+<circle cx="973" cy="175" r="6" fill="#7dd3fc"/>
+<circle cx="1061" cy="119" r="5" fill="#a5b4fc"/>
+<circle cx="879" cy="216" r="4" fill="#7dd3fc"/>
+<circle cx="1117" cy="178" r="3" fill="#e2e8f0"/>
+<text x="966" y="315" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.5" fill="#8da6bf">PERCEIVE · BUILD · REFINE</text>
+</svg>
