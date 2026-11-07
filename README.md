@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mattea-type.svg" alt="Mattea — Robotics Engineering Student. Pine not for waters swept away; Know that love’s first bloom may not stay." width="100%" />
+<img src="./assets/mattea-dark-2026.svg" alt="Mattea — Robotics Engineering Student. Pine not for waters swept away; Know that love’s first bloom may not stay." width="100%" />
 
 </div>
 
