@@ -1,19 +1,21 @@
 <div align="center">
 
-# Hi, I'm Mattea.
+<img src="./assets/profile-banner.svg" alt="Mattea — Robotics Engineering. Pine not for waters swept away; Know that love’s first bloom may not stay." width="100%" />
 
-**Robotics Engineering Student**
+<br />
 
-<br>
+**Robotics Engineering Student** &nbsp;·&nbsp; **Building between software and hardware**
 
-*Pine not for waters swept away;*  
-*Know that love’s first bloom may not stay.*
+<br />
+
+<a href="https://github.com/Stradlin1"><img src="https://img.shields.io/badge/GitHub-Stradlin1-1a2738?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI-1a2738?style=flat-square&labelColor=273b50" alt="Focus: Robotics and AI" />
 
 </div>
 
----
+<br />
 
-## About Me
+### `01.` About Me
 
 I'm a Robotics Engineering student with a strong interest in **Computer Vision, Artificial Intelligence, and Embedded Systems**.
 
@@ -21,17 +23,41 @@ I enjoy exploring the intersection of software and hardware, from developing per
 
 Currently learning, experimenting, and building things along the way.
 
-## Tech Stack
+<br />
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-30363D?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-30363D?style=flat-square&logo=cplusplus&logoColor=white) |
-| **AI & Computer Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-30363D?style=flat-square&logo=opencv&logoColor=white) |
-| **Robotics & Embedded** | ![ROS 2](https://img.shields.io/badge/ROS%202-30363D?style=flat-square&logo=ros&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-30363D?style=flat-square&logo=stmicroelectronics&logoColor=white) ![8051 MCU](https://img.shields.io/badge/8051%20MCU-30363D?style=flat-square) |
-| **Development Tools** | ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white) |
+### `02.` Tech Stack
 
-## Currently Exploring
+<sub>LANGUAGES</sub>
 
-- Robotic perception and intelligent systems
-- Deep learning and edge AI deployment
-- Embedded development and system integration
+![Python](https://img.shields.io/badge/Python-26384c?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-26384c?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-26384c?style=flat-square&logo=cplusplus&logoColor=white)
+
+<sub>AI / COMPUTER VISION</sub>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-26384c?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-26384c?style=flat-square&logo=opencv&logoColor=white)
+
+<sub>ROBOTICS / EMBEDDED</sub>
+
+![ROS 2](https://img.shields.io/badge/ROS%202-26384c?style=flat-square&logo=ros&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-26384c?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![8051 MCU](https://img.shields.io/badge/8051%20MCU-26384c?style=flat-square)
+
+<sub>DEVELOPMENT</sub>
+
+![Linux](https://img.shields.io/badge/Linux-26384c?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-26384c?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-26384c?style=flat-square&logo=docker&logoColor=white)
+
+<br />
+
+### `03.` Currently Exploring
+
+<img src="./assets/exploring.svg" alt="Robotic perception and intelligent systems; deep learning and edge AI deployment; embedded development and system integration." width="100%" />
+
+<br />
+
+<div align="center">
+  <sub>Perceive carefully. Build deliberately. Keep exploring.</sub>
+</div>
