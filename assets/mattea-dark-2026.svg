@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="182" viewBox="0 0 1200 182" role="img" aria-labelledby="title desc">
+<title id="title">Mattea — Robotics Engineering Student</title>
+<desc id="desc">Pine not for waters swept away; Know that love's first bloom may not stay.</desc>
+<rect width="1200" height="182" rx="4" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="180" rx="4" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M38 22H1162" stroke="#30363d" stroke-width="1"/>
+<text x="47" y="103" fill="#e6edf3" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="700" letter-spacing="-3">Mattea<tspan fill="#d78b70">.</tspan></text>
+<text x="49" y="135" fill="#9ca9b9" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.4">ROBOTICS ENGINEERING STUDENT</text>
+<path d="M486 40V143" stroke="#455363" stroke-width="1"/>
+<text x="525" y="83" fill="#e6edf3" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="28">Pine not for waters swept away;</text>
+<text x="525" y="122" fill="#e6edf3" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="28">Know that love’s first bloom may not stay.</text>
+<path d="M38 160H1162" stroke="#30363d" stroke-width="1"/>
+</svg>
