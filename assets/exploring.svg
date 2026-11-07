@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
+<title id="title">Currently exploring: robotic perception and intelligent systems; deep learning and edge AI deployment; embedded development and system integration</title>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a28"/><stop offset="1" stop-color="#152133"/></linearGradient></defs>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="2" y="2" width="382" height="176" rx="14" fill="url(#card)" stroke="#34465d"/>
+<rect x="409" y="2" width="382" height="176" rx="14" fill="url(#card)" stroke="#34465d"/>
+<rect x="816" y="2" width="382" height="176" rx="14" fill="url(#card)" stroke="#34465d"/>
+<rect x="26" y="28" width="24" height="3" rx="1.5" fill="#7dd3fc"/>
+<rect x="433" y="28" width="24" height="3" rx="1.5" fill="#a5b4fc"/>
+<rect x="840" y="28" width="24" height="3" rx="1.5" fill="#7dd3fc"/>
+<text x="26" y="58" fill="#93a8c2" font-size="12" letter-spacing="2">01 / PERCEPTION</text>
+<text x="26" y="103" fill="#eff6ff" font-size="25" font-weight="700">Robotic Perception</text>
+<text x="26" y="139" fill="#a6b8cd" font-size="15">Intelligent systems &amp; vision</text>
+<text x="433" y="58" fill="#93a8c2" font-size="12" letter-spacing="2">02 / INTELLIGENCE</text>
+<text x="433" y="103" fill="#eff6ff" font-size="25" font-weight="700">Edge AI</text>
+<text x="433" y="139" fill="#a6b8cd" font-size="15">Deep learning &amp; deployment</text>
+<text x="840" y="58" fill="#93a8c2" font-size="12" letter-spacing="2">03 / INTEGRATION</text>
+<text x="840" y="103" fill="#eff6ff" font-size="25" font-weight="700">Embedded Systems</text>
+<text x="840" y="139" fill="#a6b8cd" font-size="15">Development &amp; integration</text>
+</g>
+<g stroke="#7dd3fc" fill="none" stroke-width="1.5" opacity=".8">
+<circle cx="335" cy="44" r="17"/><circle cx="335" cy="44" r="7"/><path d="M335 21V28M335 60V67M312 44H319M351 44H358"/>
+<circle cx="743" cy="34" r="4" fill="#a5b4fc" stroke="none"/><circle cx="760" cy="51" r="4" fill="#a5b4fc" stroke="none"/><circle cx="733" cy="62" r="4" fill="#a5b4fc" stroke="none"/><path d="M743 34L760 51L733 62L743 34" stroke="#a5b4fc"/>
+<path d="M1145 28V42H1130V56H1115M1145 42H1160V56" /><circle cx="1115" cy="56" r="3" fill="#7dd3fc"/><circle cx="1160" cy="56" r="3" fill="#7dd3fc"/>
+</g>
+</svg>
